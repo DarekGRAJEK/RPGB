@@ -1,0 +1,22 @@
+{
+  "name": "botrpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarekGRAJEK/RPGB.git"
+  },
+  "author": "DarekGRAJEK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarekGRAJEK/RPGB/issues"
+  },
+  "homepage": "https://github.com/DarekGRAJEK/RPGB#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
